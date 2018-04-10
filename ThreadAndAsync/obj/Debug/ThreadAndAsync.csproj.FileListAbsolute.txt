@@ -1,0 +1,9 @@
+C:\Users\zchristy\Documents\ThreadAndAsync\ThreadAndAsync\bin\Debug\ThreadAndAsync.exe.config
+C:\Users\zchristy\Documents\ThreadAndAsync\ThreadAndAsync\bin\Debug\ThreadAndAsync.exe
+C:\Users\zchristy\Documents\ThreadAndAsync\ThreadAndAsync\bin\Debug\ThreadAndAsync.pdb
+C:\Users\zchristy\Documents\ThreadAndAsync\ThreadAndAsync\obj\Debug\ThreadAndAsync.csprojResolveAssemblyReference.cache
+C:\Users\zchristy\Documents\ThreadAndAsync\ThreadAndAsync\obj\Debug\ThreadAndAsync.exe
+C:\Users\zchristy\Documents\ThreadAndAsync\ThreadAndAsync\obj\Debug\ThreadAndAsync.pdb
+C:\Source\ThreadAndAsync\ThreadAndAsync\bin\Debug\ThreadAndAsync.exe.config
+C:\Source\ThreadAndAsync\ThreadAndAsync\obj\Debug\ThreadAndAsync.exe
+C:\Source\ThreadAndAsync\ThreadAndAsync\obj\Debug\ThreadAndAsync.pdb
